@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 8e3809be0482ac7be8a28f6c2bb95116
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - loseScreen: {instanceID: 0}
+  - winScreen: {instanceID: 0}
+  - replayButton: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
